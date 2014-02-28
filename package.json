@@ -1,7 +1,7 @@
 {
   "name": "atom-flat-ui",
   "theme": "ui",
-  "version": "0.23.0",
+  "version": "0.0.0",
   "description": "Flat theme for interface components",
   "license": "MIT",
   "repository": "https://github.com/gnomus/atom-flat-ui",
