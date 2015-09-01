@@ -1,6 +1,6 @@
 # Atom Flat UI theme
 
-Completly Flat UI theme for Atom.
+Completely Flat UI theme for Atom.
 No ugly Shadows, no ugly Gradients.
 
 
